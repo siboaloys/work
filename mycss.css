@@ -11,13 +11,13 @@ border:3px solid #a1a1a1;
 padding:9px 35px; 
 background:#8000CC;
 width:400px;
-border-radius:20px;
+border-radius:10px;
 box-shadow: 7px 7px 6px;
 }
 #button{
 border-radius:12px;
-width:100px;
-height:40px;
+width:90px;
+height:30px;
 background:#FF00FF;
 font-weight:bold;
 font-size:20px
